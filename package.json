@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "module": "index.ts",
+  "name": "solana-mobile-wallpapers",
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "private": true,
+  "scripts": {
+    "wallpapers:update": "bun run scripts/update-wallpapers.ts"
+  },
+  "type": "module"
+}
