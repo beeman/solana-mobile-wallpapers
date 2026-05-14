@@ -44,6 +44,24 @@ type BunImagePipeline = {
 
 type BunFile = ReturnType<typeof Bun.file>;
 
+const COLOR_TAGS: Record<string, string[]> = {
+  amber: ["#FDBF3A"],
+  breakthrough: ["#10282C", "#6939CA", "#EF5C6F", "#FDBF3A", "#F6F6F5"],
+  cirrus: ["#F6F6F5"],
+  green: ["#14F195"],
+  magma: ["#EF5C6F"],
+  ocean: ["#10282C"],
+  purple: ["#9945FF"],
+  richblack: ["#010101"],
+  seaglass: ["#CFE6E4"],
+  seafoam: ["#81C5B0"],
+  "solana-gradient": ["#14F195", "#9945FF"],
+  spectrum: ["#010101", "#0B3446", "#10282C", "#31A79A", "#6939CA", "#81C5B0", "#CFE6E4", "#EF5C6F", "#FDBF3A", "#F6F6F5"],
+  terrestrial: ["#010101", "#0B3446", "#31A79A", "#81C5B0", "#CFE6E4"],
+  turquoise: ["#31A79A"],
+  ultraviolet: ["#6939CA"],
+};
+
 function createAspectRatio({ height, width }: Dimensions) {
   const divisor = greatestCommonDivisor(width, height);
   return `${width / divisor}:${height / divisor}`;
@@ -87,16 +105,10 @@ function createReadmeSection(wallpapers: Wallpaper[]) {
 function detectColors(slug: string) {
   const colors = [];
 
-  if (slug.includes("green")) {
-    colors.push("#14F195");
-  }
-
-  if (slug.includes("purple")) {
-    colors.push("#9945FF");
-  }
-
-  if (slug.includes("gradient")) {
-    colors.push("#14F195", "#9945FF");
+  for (const [tag, tagColors] of Object.entries(COLOR_TAGS)) {
+    if (slug.includes(tag)) {
+      colors.push(...tagColors);
+    }
   }
 
   return [...new Set(colors)].sort();
