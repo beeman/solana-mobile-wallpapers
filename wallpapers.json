@@ -1,0 +1,150 @@
+{
+  "rawBaseUrl": "https://raw.githubusercontent.com/beeman/solana-mobile-wallpapers/main",
+  "wallpapers": [
+    {
+      "aspectRatio": "2:1",
+      "bytes": 92163,
+      "colors": [
+        "#14F195",
+        "#9945FF"
+      ],
+      "fileName": "solana-gradient-5340x2670.png",
+      "format": "png",
+      "height": 2670,
+      "imageUrl": "https://raw.githubusercontent.com/beeman/solana-mobile-wallpapers/main/wallpapers/solana-gradient-5340x2670.png",
+      "name": "Solana Gradient",
+      "path": "wallpapers/solana-gradient-5340x2670.png",
+      "previewBytes": 2271,
+      "previewHeight": 267,
+      "previewPath": "previews/solana-gradient-5340x2670.png",
+      "previewUrl": "https://raw.githubusercontent.com/beeman/solana-mobile-wallpapers/main/previews/solana-gradient-5340x2670.png",
+      "previewWidth": 534,
+      "slug": "solana-gradient-5340x2670",
+      "width": 5340
+    },
+    {
+      "aspectRatio": "2:1",
+      "bytes": 3998868,
+      "colors": [
+        "#14F195",
+        "#9945FF"
+      ],
+      "fileName": "solana-gradient-dark-5340x2670.png",
+      "format": "png",
+      "height": 2670,
+      "imageUrl": "https://raw.githubusercontent.com/beeman/solana-mobile-wallpapers/main/wallpapers/solana-gradient-dark-5340x2670.png",
+      "name": "Solana Gradient Dark",
+      "path": "wallpapers/solana-gradient-dark-5340x2670.png",
+      "previewBytes": 17189,
+      "previewHeight": 267,
+      "previewPath": "previews/solana-gradient-dark-5340x2670.png",
+      "previewUrl": "https://raw.githubusercontent.com/beeman/solana-mobile-wallpapers/main/previews/solana-gradient-dark-5340x2670.png",
+      "previewWidth": 534,
+      "slug": "solana-gradient-dark-5340x2670",
+      "width": 5340
+    },
+    {
+      "aspectRatio": "2:1",
+      "bytes": 5620551,
+      "colors": [
+        "#14F195",
+        "#9945FF"
+      ],
+      "fileName": "solana-gradient-diagonal-5340x2670.png",
+      "format": "png",
+      "height": 2670,
+      "imageUrl": "https://raw.githubusercontent.com/beeman/solana-mobile-wallpapers/main/wallpapers/solana-gradient-diagonal-5340x2670.png",
+      "name": "Solana Gradient Diagonal",
+      "path": "wallpapers/solana-gradient-diagonal-5340x2670.png",
+      "previewBytes": 17959,
+      "previewHeight": 267,
+      "previewPath": "previews/solana-gradient-diagonal-5340x2670.png",
+      "previewUrl": "https://raw.githubusercontent.com/beeman/solana-mobile-wallpapers/main/previews/solana-gradient-diagonal-5340x2670.png",
+      "previewWidth": 534,
+      "slug": "solana-gradient-diagonal-5340x2670",
+      "width": 5340
+    },
+    {
+      "aspectRatio": "2:1",
+      "bytes": 5597458,
+      "colors": [
+        "#14F195",
+        "#9945FF"
+      ],
+      "fileName": "solana-gradient-diagonal-reverse-5340x2670.png",
+      "format": "png",
+      "height": 2670,
+      "imageUrl": "https://raw.githubusercontent.com/beeman/solana-mobile-wallpapers/main/wallpapers/solana-gradient-diagonal-reverse-5340x2670.png",
+      "name": "Solana Gradient Diagonal Reverse",
+      "path": "wallpapers/solana-gradient-diagonal-reverse-5340x2670.png",
+      "previewBytes": 18269,
+      "previewHeight": 267,
+      "previewPath": "previews/solana-gradient-diagonal-reverse-5340x2670.png",
+      "previewUrl": "https://raw.githubusercontent.com/beeman/solana-mobile-wallpapers/main/previews/solana-gradient-diagonal-reverse-5340x2670.png",
+      "previewWidth": 534,
+      "slug": "solana-gradient-diagonal-reverse-5340x2670",
+      "width": 5340
+    },
+    {
+      "aspectRatio": "2:1",
+      "bytes": 4983648,
+      "colors": [
+        "#14F195",
+        "#9945FF"
+      ],
+      "fileName": "solana-gradient-muted-5340x2670.png",
+      "format": "png",
+      "height": 2670,
+      "imageUrl": "https://raw.githubusercontent.com/beeman/solana-mobile-wallpapers/main/wallpapers/solana-gradient-muted-5340x2670.png",
+      "name": "Solana Gradient Muted",
+      "path": "wallpapers/solana-gradient-muted-5340x2670.png",
+      "previewBytes": 13185,
+      "previewHeight": 267,
+      "previewPath": "previews/solana-gradient-muted-5340x2670.png",
+      "previewUrl": "https://raw.githubusercontent.com/beeman/solana-mobile-wallpapers/main/previews/solana-gradient-muted-5340x2670.png",
+      "previewWidth": 534,
+      "slug": "solana-gradient-muted-5340x2670",
+      "width": 5340
+    },
+    {
+      "aspectRatio": "2:1",
+      "bytes": 2055,
+      "colors": [
+        "#14F195"
+      ],
+      "fileName": "solana-green-5340x2670.png",
+      "format": "png",
+      "height": 2670,
+      "imageUrl": "https://raw.githubusercontent.com/beeman/solana-mobile-wallpapers/main/wallpapers/solana-green-5340x2670.png",
+      "name": "Solana Green",
+      "path": "wallpapers/solana-green-5340x2670.png",
+      "previewBytes": 341,
+      "previewHeight": 267,
+      "previewPath": "previews/solana-green-5340x2670.png",
+      "previewUrl": "https://raw.githubusercontent.com/beeman/solana-mobile-wallpapers/main/previews/solana-green-5340x2670.png",
+      "previewWidth": 534,
+      "slug": "solana-green-5340x2670",
+      "width": 5340
+    },
+    {
+      "aspectRatio": "2:1",
+      "bytes": 2055,
+      "colors": [
+        "#9945FF"
+      ],
+      "fileName": "solana-purple-5340x2670.png",
+      "format": "png",
+      "height": 2670,
+      "imageUrl": "https://raw.githubusercontent.com/beeman/solana-mobile-wallpapers/main/wallpapers/solana-purple-5340x2670.png",
+      "name": "Solana Purple",
+      "path": "wallpapers/solana-purple-5340x2670.png",
+      "previewBytes": 341,
+      "previewHeight": 267,
+      "previewPath": "previews/solana-purple-5340x2670.png",
+      "previewUrl": "https://raw.githubusercontent.com/beeman/solana-mobile-wallpapers/main/previews/solana-purple-5340x2670.png",
+      "previewWidth": 534,
+      "slug": "solana-purple-5340x2670",
+      "width": 5340
+    }
+  ]
+}
